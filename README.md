@@ -6,12 +6,11 @@
   [![GitHub lithirabuwaneka](https://img.shields.io/github/followers/LithiraBuwaneka?label=follow&style=social)](https://github.com/LithiraBuwaneka)
   
 
-Here are some ideas to get you started:
-
 - 👨‍💻 Student </>
  - 💻 UI | UX Fanatic 😆
 - 🔭 I’m currently working on some stunning projects...
-- 👯 I’m looking to collaborate on open source
+- 🍃 I’m looking to collaborate on open source...
+
 
 
 
