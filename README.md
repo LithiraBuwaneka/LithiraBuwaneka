@@ -4,14 +4,12 @@
  [![Mail Badge](https://img.shields.io/badge/-lithirabuwaneka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lithirabuwaneka11@gmail.com)
   [![Badge](https://img.shields.io/badge/-lithirabuwaneka.tk-cfg59?style=flat&labelColor=cfg59&logo=logoColor=white)](https://lithirabuwaneka.tk)
   [![GitHub lithirabuwaneka](https://img.shields.io/github/followers/LithiraBuwaneka?label=follow&style=social)](https://github.com/LithiraBuwaneka)
-  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LithiraBuwaneka)
 
 - 👨‍💻 Student </>
  - 💻 UI | UX Fanatic 😆
 - 🔭 I’m currently working on some stunning projects...
 - 🍃 I’m looking to collaborate on open source...
-
-
 
 
 
