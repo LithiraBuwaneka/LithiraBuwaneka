@@ -1,6 +1,5 @@
 <h3 align="left">Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> I'm Lithira Buwaneka  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h3>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LithiraBuwaneka&show_icons=true">
 
 [![Instagram Badge](https://img.shields.io/badge/-@lithira.buwaneka-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/lithira.buwaneka)
 [![Mail Badge](https://img.shields.io/badge/-lithirabuwaneka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lithirabuwaneka11@gmail.com)
