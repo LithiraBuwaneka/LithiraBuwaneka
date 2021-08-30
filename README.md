@@ -11,8 +11,15 @@
 - 🔭 I’m currently working on some stunning projects...
 - 🍃 I’m looking to collaborate on open source...
 
+### 🛠 &nbsp;Tech Stack
 
+<p align="left">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="35" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="35" title="css">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="35" title="javascript">  
+  <img alt="React" width="35" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/react-original.svg" />
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="35" title="github">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="35" title="vscode">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" /></p>
+ </p>
 
-  
-
-  
