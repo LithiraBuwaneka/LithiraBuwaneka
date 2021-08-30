@@ -6,9 +6,6 @@
 [![Mail Badge](https://img.shields.io/badge/-lithirabuwaneka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lithirabuwaneka11@gmail.com)
 [![GitHub lithirabuwaneka](https://img.shields.io/github/followers/LithiraBuwaneka?label=follow&style=social)](https://github.com/LithiraBuwaneka)
 
-<img align='right' src = "https://github-readme-streak-stats.herokuapp.com?user=LithiraBuwaneka&theme=algolia&hide_border=true" width = 500>
-
-
 - 👨‍💻 Student </>
 - 💻 UI | UX Fanatic 😆
 - 🔭 I’m currently working on some stunning projects...
