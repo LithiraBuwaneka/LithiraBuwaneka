@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0)
 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=LithiraBuwaneka&theme=react-dark)
+
 
 
 
