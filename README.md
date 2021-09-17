@@ -5,7 +5,7 @@
 [![GitHub lithirabuwaneka](https://img.shields.io/github/followers/LithiraBuwaneka?label=follow&style=social)](https://github.com/LithiraBuwaneka)
 
 - 👨‍💻 Student </>
-- 💻 UI | UX Fanatic 😆
+- 💻 Frontend Developer 😆
 - 🔭 I’m currently working on some stunning projects...
 - 🍃 I’m looking to collaborate on open source...
 
