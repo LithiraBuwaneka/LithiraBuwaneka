@@ -8,7 +8,6 @@
 
 - 👨‍💻 Student </>
 - 💻 Frontend Developer 😆
-- 🔭 I’m currently working on some stunning projects...
 - 🍃 I’m looking to collaborate on open source...
 
 
