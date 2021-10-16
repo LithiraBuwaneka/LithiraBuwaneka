@@ -1,4 +1,5 @@
 <h2 align="left">Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> I'm Lithira Buwaneka  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LithiraBuwaneka&show_icons=true&theme=github_dark&hide_border=0">
 
 [![Instagram Badge](https://img.shields.io/badge/-@lithira.buwaneka-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/lithira.buwaneka)
 [![Mail Badge](https://img.shields.io/badge/-lithirabuwaneka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lithirabuwaneka11@gmail.com)
@@ -19,10 +20,8 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="35" title="github">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="35" title="vscode">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" /></p>
- </p>
  
-
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0)
 
 
 
