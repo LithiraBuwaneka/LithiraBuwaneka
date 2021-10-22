@@ -20,7 +20,16 @@
   <img alt="React" width="35" src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/react-original.svg" />
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="35" title="github">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="35" title="vscode">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" /></p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" />
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intelij" width="35" />
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" /> </a> 
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="35"/> </a>
+     
+  </p>
+  
+  
+  
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0)
 
