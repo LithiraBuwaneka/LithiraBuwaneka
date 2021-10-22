@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 Student </>
-- 💻 Frontend Developer 😆
+- 💻 Developer 😆
 - 🍃 I’m looking to collaborate on open source...
 
 
@@ -28,10 +28,7 @@
      
   </p>
   
-  
-  
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0)
 
 
 
