@@ -5,6 +5,8 @@
 [![Mail Badge](https://img.shields.io/badge/-lithirabuwaneka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lithirabuwaneka11@gmail.com)
 [![GitHub lithirabuwaneka](https://img.shields.io/github/followers/LithiraBuwaneka?label=follow&style=social)](https://github.com/LithiraBuwaneka)
 
+[![wakatime](https://wakatime.com/badge/user/890bb658-1c6a-4a15-875d-b7abb0cc69f9.svg)](https://wakatime.com/@890bb658-1c6a-4a15-875d-b7abb0cc69f9)
+
 
 - 👨‍💻 Student </>
 - 💻 Developer 😆
