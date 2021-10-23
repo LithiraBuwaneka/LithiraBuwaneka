@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Lithira Buwaneka
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -13,7 +13,7 @@ jobs:
         id: snake-gif
 
         with:
-          github_user_name: eagrundy
+          github_user_name: LithiraBuwaneka
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
