@@ -1,5 +1,5 @@
 <h2 align="left">Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> I'm Lithira Buwaneka  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LithiraBuwaneka&show_icons=true&theme=github_dark&hide_border=0">
+
 
 
  
