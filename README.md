@@ -12,13 +12,13 @@
 [![wakatime](https://wakatime.com/badge/user/890bb658-1c6a-4a15-875d-b7abb0cc69f9.svg)](https://wakatime.com/@890bb658-1c6a-4a15-875d-b7abb0cc69f9)
 
 
-- 👨‍💻 Student </>
+- 👨‍💻 Student<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 - 💻 Developer 😆
 - 🍃 I’m looking to collaborate on open source...
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack 
 
 <p align="left">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="35" title="html">
