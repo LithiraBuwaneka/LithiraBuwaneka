@@ -40,6 +40,8 @@
   ![Snake animation](https://github.com/LithiraBuwaneka/LithiraBuwaneka/blob/output/github-contribution-grid-snake.svg)
 
  
+<!-- <h2>Visitor Count</h2>  
+<img align="center" src="https://profile-counter.glitch.me/{LithiraBuwaneka}/count.svg" />
 
 
-
+ -->
