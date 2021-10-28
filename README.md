@@ -12,7 +12,7 @@
 [![wakatime](https://wakatime.com/badge/user/890bb658-1c6a-4a15-875d-b7abb0cc69f9.svg)](https://wakatime.com/@890bb658-1c6a-4a15-875d-b7abb0cc69f9)
 
 
-- 👨‍💻 Student<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
+- 👨‍💻 Student
 - 💻 Developer 😆
 - 🍃 I’m looking to collaborate on open source...
 
@@ -42,6 +42,6 @@
  
 <!-- <h2>Visitor Count</h2>  
 <img align="center" src="https://profile-counter.glitch.me/{LithiraBuwaneka}/count.svg" />
-
-
- -->
+-->
+ 
+<!--  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> -->
