@@ -37,7 +37,7 @@
 <!-- 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0) -->
 
-  ![Snake animation](https://github.com/LithiraBuwaneka/LithiraBuwaneka/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/LithiraBuwaneka/LithiraBuwaneka/blob/output/github-contribution-grid-snake.svg) -->
 
  
 <!-- <h2>Visitor Count</h2>  
