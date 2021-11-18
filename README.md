@@ -18,7 +18,7 @@
 
 
 
-### 🛠 &nbsp;Tech Stack 
+<!-- ### 🛠 &nbsp;Tech Stack 
 
 <p align="left">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="35" title="html">
@@ -33,7 +33,7 @@
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" /> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="35"/> </a>
      
-  </p>
+  </p> -->
 <!-- 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraBuwaneka&layout=compact&theme=github_dark&hide_border=0) -->
 
