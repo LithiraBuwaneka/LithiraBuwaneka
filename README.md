@@ -6,6 +6,7 @@
   <a href="https://instagram.com/lithira.buwaneka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lithirabuwaneka11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lithira-buwaneka-4518861a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a target="_blank" href="https://medium.com/@Lithira.Buwaneka"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
     
 <!--[![GitHub lithirabuwaneka](https://img.shields.io/github/followers/LithiraBuwaneka?label=follow&style=social)](https://github.com/LithiraBuwaneka) -->
 
